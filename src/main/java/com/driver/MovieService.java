@@ -1,6 +1,6 @@
-package com.driver.service;
+package com.driver;
 
-import com.driver.models.Director;import com.driver.models.Movie;import com.driver.repository.MovieRepository;import org.springframework.http.HttpStatus;import org.springframework.http.ResponseEntity;import org.springframework.stereotype.Service;import java.util.List;
+import com.driver.Director;import com.driver.Movie;import com.driver.MovieRepository;import org.springframework.http.HttpStatus;import org.springframework.http.ResponseEntity;import org.springframework.stereotype.Service;import java.util.List;
 @Service
 public class MovieService
 {

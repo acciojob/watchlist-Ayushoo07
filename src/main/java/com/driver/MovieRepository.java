@@ -1,7 +1,7 @@
-package com.driver.repository;
+package com.driver;
 
-import com.driver.models.Director;
-import com.driver.models.Movie;
+import com.driver.Director;
+import com.driver.Movie;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;import java.util.ArrayList;import java.util.HashMap;import java.util.List;
